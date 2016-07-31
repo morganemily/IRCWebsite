@@ -1,0 +1,54 @@
+body {
+	font-family: Times, serif;
+	height: 100%;
+	margin: 0;
+	text-align: center;
+	width: 100%;
+}
+
+h1 {
+	font-size: 40px;
+    color: white;
+    font-family: Times, serif;
+}
+
+h2 {
+	color: #ffffff;
+	font-size: 56px; 
+}
+
+
+.hero {
+	background-image: url('https://scontent-iad3-1.xx.fbcdn.net/v/t1.0-9/10351762_265736073615334_6883415000008291793_n.jpg?oh=65dd3002b11f88e67cb458b7f82576b6&oe=580CE79E');
+	background-position: center middle;
+	background-size: cover;
+	padding: 250px 0;
+	margin: 30px;
+	text-shadow: 0 3px #000000;
+	font-family: 'Trebuchet MS', 'Helvetica';
+    vertical-align: top;
+
+}
+
+
+p {
+	color: black;
+	font-size: 1em;
+}
+
+.hero a {
+	color: #00FFAA;
+	font-size: 24px;
+	text-decoration: none;
+}
+
+#footer {
+	color: DarkSlateGray;
+	font-size: 16px;
+}
+
+
+
+#footer {
+    
+}
